@@ -6,3 +6,4 @@ Small utils that reinforce and improve my routine workflow by automations.
 * password checker
 * python job scraper
 * directory clean sweep
+* contact info extractor
